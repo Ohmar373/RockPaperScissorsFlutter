@@ -20,6 +20,79 @@
 
 ---
 
+## Getting Started
+
+### Prerequisites
+
+Before you can run this project, ensure you have the following installed on your machine:
+
+- **Flutter SDK** (version 3.0 or higher) - [Download here](https://flutter.dev/docs/get-started/install)
+- **Dart SDK** (comes with Flutter)
+- **Git** - [Download here](https://git-scm.com/)
+- An IDE such as **VS Code**, **Android Studio**, or **IntelliJ IDEA**
+
+### Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Ohmar373/RockPaperScissorsFlutter.git
+   cd RockPaperScissors
+   ```
+
+2. **Install Flutter dependencies**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Verify your Flutter setup**
+   ```bash
+   flutter doctor
+   ```
+   This command will check if all required dependencies are properly installed.
+
+### Running the App
+
+You can run the app on different platforms:
+
+**Android (using Android Emulator or connected device)**
+```bash
+flutter run
+```
+
+**iOS (macOS only)**
+```bash
+flutter run -d ios
+```
+
+**Web**
+```bash
+flutter run -w
+```
+
+**Or use the provided run script**
+```bash
+./run.sh
+```
+
+### Building for Production
+
+**Android APK**
+```bash
+flutter build apk
+```
+
+**iOS IPA**
+```bash
+flutter build ios
+```
+
+**Web**
+```bash
+flutter build web
+```
+
+---
+
 ## Behavior-Driven Design
 
 ### User Stories
