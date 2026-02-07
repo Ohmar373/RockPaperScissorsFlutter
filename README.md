@@ -7,6 +7,26 @@
 
 ---
 
+## Game Description
+
+**Rock Paper Scissors** is an interactive Flutter app that lets you play the classic Rock Paper Scissors game against the computer. The game follows the best-of-three format where you need to win 2 rounds to claim victory. Simply choose your move (Rock, Paper, or Scissors), and the app will randomly select a move for you to go against. After each round, you'll see the outcome and your updated score. The first player to win 2 rounds wins the match!
+
+## Gameplay Screenshots
+
+**Splash Screen**
+<img src="/HomePageRPS.png" alt="Splash Screen" width="250"/>
+
+**Round Won**
+<img src="/roundWonRPS.png" alt="Round Won" width="250"/>
+
+**You Lost**
+<img src="/gameLostRPS.png" alt="You Lost" width="250"/>
+
+**You Won**
+<img src="/gameWonRPS.png" alt="Round Outcome" width="250"/>
+
+---
+
 ## Behavior-Driven Design
 
 ### User Stories
@@ -55,8 +75,6 @@ As a player, I should be able to restart the game, so that I can play another ma
 
 
 ### Sad Paths
-
-*ADD SAD PATH ACCEPTANCE CRITERIA HERE*
 
 **GIVEN** I am on the Choose Screen, **WHEN** I tap "Continue" **AND** I don't make a selection, **THEN** I should still be in the Choose Screen.
 
