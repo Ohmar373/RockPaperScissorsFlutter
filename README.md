@@ -13,17 +13,10 @@
 
 ## Gameplay Screenshots
 
-**Splash Screen**
-<img src="/HomePageRPS.png" alt="Splash Screen" width="250"/>
-
-**Round Won**
-<img src="/roundWonRPS.png" alt="Round Won" width="250"/>
-
-**You Lost**
-<img src="/gameLostRPS.png" alt="You Lost" width="250"/>
-
-**You Won**
-<img src="/gameWonRPS.png" alt="Round Outcome" width="250"/>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **Splash Screen** | **Round Won** | **You Lost** | **You Won** |
+| ![Splash Screen](/HomePageRPS.png) | ![Round Won](/roundWonRPS.png) | ![You Lost](/gameLostRPS.png) | ![You Won](/gameWonRPS.png) |
 
 ---
 
